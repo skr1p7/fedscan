@@ -22,5 +22,4 @@ Scan (i)P or (d)omain(i/d)? > **enter your ip or domain name**
 ```
 
 **Contact developer here**
-https://twitter.com/0xskr1p7
-[Twitter] (https://twitter.com/0xskr1p7)
+[Twitter] https://twitter.com/0xskr1p7
