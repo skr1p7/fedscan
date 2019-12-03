@@ -1,6 +1,6 @@
 # README.md
 ---------------------
-##Requirements
+##Requirements##
 Clone the Fedscan repository using the command in your terminal
 
 ```bash
@@ -13,7 +13,7 @@ You are required to have Python 2.7 installed in order to make use of this tool,
 sudo apt-get install python 
 ```
 
-##Usage
+##Usage##
 
 ```bash
 python fedscan.py
